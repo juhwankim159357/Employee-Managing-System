@@ -14,4 +14,4 @@ To run app, access below address is needed.
 
 https://agile-chamber-83705.herokuapp.com/
 
-When you are register on the web, you can add or delete any employees and departments which is stored in database.
+When you are register on the web and sign in, you can add or delete any employees and departments which is stored in database.
