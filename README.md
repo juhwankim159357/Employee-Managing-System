@@ -9,6 +9,9 @@
 ▪ By Using Hash, authorization is qualified for modifying data.
 
 
+Node_modules is consist of over 3000 files so I made a zip file.
+
+Therefore, to see a modules, unzipping is needed.
 
 To run app, access below address is needed.
 
